@@ -1,0 +1,10 @@
+{
+  "gameState" : 1,
+  "playerCount" : 8,
+  "players" : {
+    "playernull" : {
+      "distance" : 0,
+      "name" : "player4"
+    }
+  }
+}
